@@ -41,7 +41,7 @@
 
         lower {
             bindings = <
-   &trans       &kp PAGE_UP          &kp HOME      &kp UP_ARROW           &kp END            &trans      &kp KP_EQUAL  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9             &kp N0  &kp TILDE
+   &trans       &kp PAGE_UP          &kp HOME      &kp UP_ARROW           &kp END            &trans         &kp EQUAL  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9             &kp N0  &kp TILDE
 &kp ENTER     &kp PAGE_DOWN          &kp LEFT          &kp DOWN         &kp RIGHT            &trans  &kp LEFT_BRACKET  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp RIGHT_BRACKET     &trans
    &trans  &kp LC(NUMBER_1)  &kp LC(NUMBER_2)  &kp LC(NUMBER_3)  &kp LC(NUMBER_4)  &kp LC(NUMBER_5)         &kp MINUS  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3      &kp BACKSLASH     &trans
    &trans            &trans            &trans            &trans            &trans            &trans            &trans        &trans        &trans        &trans             &trans     &trans
